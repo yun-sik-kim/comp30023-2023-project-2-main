@@ -1,0 +1,13 @@
+Makefile
+.gitignore
+
+*.out
+*.o
+*.txt
+*.a
+
+*.in
+*.out
+
+client.c
+server.c
