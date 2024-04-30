@@ -3,7 +3,6 @@ Makefile
 
 *.out
 *.o
-*.txt
 *.a
 
 *.in
